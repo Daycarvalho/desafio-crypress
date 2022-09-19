@@ -1,0 +1,14 @@
+{
+  "name": "desafio-avenue",
+  "version": "1.0.0",
+  "description": "Desafio tecnico QA Avenue",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Dayane Carvalho",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.8.0"
+  }
+}
